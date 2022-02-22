@@ -1,0 +1,16 @@
+{
+  "name": "arun-resume",
+  "version": "1.0.0",
+  "description": "Arun's resume built using JSON resume",
+  "author": "Arun Nalla <hello@arunnalla.com>",
+  "scripts": {
+    "generate": "npx resume export resume.html --theme=onepage"
+  },
+  "dependencies": {
+    "jsonresume-theme-onepage": "0.0.3",
+    "resume-cli": "^3.0.5"
+  },
+  "volta": {
+    "node": "16.13.1"
+  }
+}

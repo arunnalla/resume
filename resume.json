@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Arun Nalla",
+    "label": "Technical Lead",
+    "summary": "I am a full stack developer with 6 years of experience, I relish the challenges of building products from scratch, maintaining them, writing scalable and production ready code.",
+    "email": "hello@arunnalla.com",
+    "location": {
+      "city": "Bangalore",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "url": "https://www.linkedin.com/in/arunnalla/",
+        "username": "arunnalla"
+      },
+      {
+        "network": "github",
+        "url": "https://github.com/arunnalla"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2016-05",
+      "startDate": "2012-06",
+      "area": "Computer Science and Engineering (8.82/10)",
+      "studyType": "B.Tech",
+      "institution": "Vellore Institute of Technology"
+    }
+  ],
+  "references": [],
+  "skills": [
+    {
+      "keywords": ["Javascript", "React", "Redux", "HTML/JSX", "CSS"],
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Java", "Spring", "Python", "MySQL", "Redis", "Open API"],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "AWS",
+        "Git",
+        "Github",
+        "Maven",
+        "Webpack",
+        "Netlify",
+        "Jira"
+      ],
+      "name": "Tools & Platforms"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Methods and Systems for Automated Salesbeat Optimization",
+      "publisher": "Patent (20200226506)",
+      "releaseDate": "2020-07",
+      "website": "https://pdfaiw.uspto.gov/.aiw?Docid=20200226506",
+      "summary": "A computerized method of an automated solution for periodic journey planning comprising includes the step of creating a set of sales beats using a set of outlet data and a set of customer-level data."
+    }
+  ],
+  "work": [
+    {
+      "website": "https://locus.sh/",
+      "company": "Locus.sh",
+      "location": "Bangalore",
+      "position": "Technical Lead",
+      "startDate": "2021-07",
+      "highlights": [
+        "Actively involved in developing new features, performance improvements, code reviews, review of tech designs, and architecture changes on both frontend and backend services.",
+        "Responsible for code quality of the repositories, scalability of services, identifying and reducing recurring issues.",
+        "Actively involved in conducting tech interviews, assignment reviews. Helped double the engineering team size at the POD.",
+        "Responsible for the evaluation and sign-off of 3rd party libraries/products to integrate with, frontend designs, timelines for new features.",
+        "Tech: Java, MySQL, Spring, Javascript, React, Redux"
+      ]
+    },
+    {
+      "website": "https://locus.sh/",
+      "company": "Locus.sh",
+      "location": "Bangalore",
+      "position": "Senior Software Engineer",
+      "startDate": "2019-07",
+      "endDate": "2021-06",
+      "highlights": [
+        "Worked on building a new network and inventory optimization product from scratch.",
+        "Built a prototype product for permanent journey planning working closely with the data science team from scratch.",
+        "Implemented graceful shutdown for queue workers in python to reduce infrastructure costs by 25%.",
+        "Worked on developing the user interface for products that help users with real-time tracking, visualizing outputs on a map, and insights.",
+        "Built data ingestion modules supporting 10x the scale that was previously supported, with the ability to correct bad data directly from the tool.",
+        "Tech: React, Javascript, Python, MySQL, Celery"
+      ]
+    },
+    {
+      "website": "https://locus.sh/",
+      "company": "Locus.sh",
+      "location": "Bangalore",
+      "position": "Software Engineer",
+      "startDate": "2017-12",
+      "endDate": "2019-06",
+      "highlights": [
+        "Built dashboards for managing the internal configuration, which controls the behavior of the systems according to the requirements of a specific client. It enabled a clean way to manage changes and well as provide a self-service platform for the revenue org.",
+        "Worked directly with multiple large clients, onboarding their tech teams on to Locus platform and helping them integrate with Locus systems.",
+        "Built proxy services for data transformation, periodic reports, maintained internal and self-hosted tooling.",
+        "Tech: Python, Django, Javascript"
+      ]
+    },
+    {
+      "website": "https://oracle.com/",
+      "company": "Oracle",
+      "location": "Bangalore",
+      "position": "Associate Software Engineer",
+      "startDate": "2016-06",
+      "endDate": "2017-12",
+      "highlights": [
+        "Worked on the development of Oracle Preflight Checker Tool, a tool that helps developers migrate their applications to newer versions of Solaris OS.",
+        "Tuning ISV applications for high scalability and performance.",
+        "Porting FOSS applications like Redis and Apache Ambari to work on Solaris and Sparc.",
+        "Tech: Java, Oracle DB, Solaris OS"
+      ]
+    },
+    {
+      "website": "https://oracle.com/",
+      "company": "Oracle",
+      "location": "Bangalore",
+      "position": "Intern",
+      "startDate": "2016-01",
+      "endDate": "2016-05",
+      "highlights": [
+        "Worked on the development of Oracle Preflight Checker Tool, a tool that helps developers migrate their applications to newer versions of Solaris OS.",
+        "Tech: Java, Solaris OS"
+      ]
+    }
+  ]
+}
